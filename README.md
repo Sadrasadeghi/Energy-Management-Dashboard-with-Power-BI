@@ -1,4 +1,4 @@
-Highlights and Summary :
+## Highlights and Summary :
 
 •	Spearheaded the end-to-end development of an advanced Energy Optimization Dashboard in Power BI, revolutionizing data analysis and visualization capabilities.
 
